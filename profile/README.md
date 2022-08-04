@@ -5,3 +5,4 @@ KNOW Corp is a software company developing proprietary applications using Artifi
 - [Notion](https://www.notion.so/knowcorp/Home-a8a294c77150435890f808c8b487b6e5)
 - [Miro](https://miro.com/app/board/uXjVOixiIbs=/)
 - [GCP](https://console.cloud.google.com/compute/instances?authuser=1&cloudshell=false&organizationId=995616897380&project=gpt-3-for-web&pli=1)
+- [Project Backlog](https://github.com/orgs/KnowCorp/projects/6/views/1)
