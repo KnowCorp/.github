@@ -8,4 +8,4 @@ KNOW Corp is a software company developing proprietary applications using Artifi
 - [Project Backlog](https://github.com/orgs/KnowCorp/projects/6/views/1)
 
 ## Contributing
-Please read [CONTRIBUTING.md](/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
